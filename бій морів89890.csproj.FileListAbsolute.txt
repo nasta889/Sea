@@ -1,0 +1,14 @@
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\bin\Debug\бій морів89890.exe.config
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\bin\Debug\бій морів89890.exe
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\bin\Debug\бій морів89890.pdb
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\бій морів89890.csproj.AssemblyReference.cache
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\MainWindow.baml
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\MainWindow.g.cs
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\App.g.cs
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\бій морів89890_MarkupCompile.cache
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\бій морів89890.g.resources
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\бій_морів89890.Properties.Resources.resources
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\бій морів89890.csproj.GenerateResource.cache
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\бій морів89890.csproj.CoreCompileInputs.cache
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\бій морів89890.exe
+C:\Users\Настя Донец\Downloads\Битва магів\бій морів89890\obj\Debug\бій морів89890.pdb
